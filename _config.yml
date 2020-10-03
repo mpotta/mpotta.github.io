@@ -104,7 +104,7 @@ author:
       url: "mailto:mpotta@ini.uzh.ch"
     - label: "About"
       icon: "fas fa-fw fa-link"
-      url: "hhttps://meghanapotta.com/about/"
+      url: "https://meghanapotta.com/about/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://twitter.com/mepotta"
