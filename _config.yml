@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Meghana Potta"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meghana Potta"
+  name             : ""
   avatar           : "/assets/portfolio.png"
   bio              : "Computational neuroscience<br>Bayesian Networks<br>Reinforcement Learning"
-  location         : "Somewhere"
+  location         : "Zürich"
   email            :
   links:
     - label: "Email"
