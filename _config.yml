@@ -95,7 +95,7 @@ analytics:
 author:
   name             : #
   avatar           : "/assets/portfolio.png"
-  bio              : "Computational neuroscience<br>Bayesian Networks<br>Reinforcement Learning"
+  bio              : "Computational Neuroscience<br>Bayesian Networks<br>Reinforcement Learning"
   location         : "Zürich"
   email            :
   links:
